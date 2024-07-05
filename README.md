@@ -1,4 +1,4 @@
-# Ensemble-transformer-based-multiple-instance-learning
+# Ensemble transformer based multiple instance learning in prediction of pathological subtype and molecular classification (MSI and TP53) of CRC and EC
 
 ## Setup
 
