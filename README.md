@@ -135,20 +135,26 @@ log/
 │   ├── CRC_subtype
 │   │   └── ETMIL_SSLViT
 │   │
-│   ├── Mucinous_TMB_status 
+│   ├── CRC_MSI_MANTIS 
 │   │   └── ETMIL_SSLViT
 │   │
-│   └── Non-mucinous_TMB_status
+│   └── CRC_MSI_Sensor
 │       └── ETMIL_SSLViT
 │
-└── TCGA_EC/
-    ├── EC_subtype
+└── TMA_EC/
+    ├── EC_TP53
     │   └── ETMIL_SSLViT
     │
-    ├── Aggressive_TMB_status
+    ├── EC_MLH1
     │   └── ETMIL_SSLViT
     │
-    └── Non-aggressive_TMB_status
+    ├── EC_MSH2
+    │   └── ETMIL_SSLViT
+    │
+    ├── EC_MSH6
+    │   └── ETMIL_SSLViT
+    │
+    └── EC_PMS2
         └── ETMIL_SSLViT      
 ```
 
